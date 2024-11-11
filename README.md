@@ -23,4 +23,5 @@ Latest data in: 'articles_20241108.csv'
 
 **Tools used**:
 - <a href = 'https://github.com/jsvine/pdfplumber'>PdfPlumber</a>: extract texts from pdf
-- Tesseract: OCR
+- <a href = 'https://github.com/tesseract-ocr/tesseract'>Tesseract</a>: OCR engine to extract text from images
+- <a href = 'https://layout-parser.github.io/'>Layoutparser</a>: decompose complicated layouts
