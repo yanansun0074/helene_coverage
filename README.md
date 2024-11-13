@@ -4,7 +4,10 @@ This is a repository for local news coverage analysis on Hurricane Helene in Nor
 
 News article data collected from <a href='https://www.newsbank.com/'>NewsBank</a>
 
-Latest data in: 'articles_20241108.csv'
+Latest data in: 
+'helene_articles_20241113.csv'
+
+Filtered by newspapers in disaster areas from 9/23/2024 to 10/23/2024 --> 1911 articles
 
 | Column Name | Meaning |
 | -------- | ------- |
@@ -16,10 +19,16 @@ Latest data in: 'articles_20241108.csv'
 | author | author names |
 | word_count | number of words |
 
+'articles_20241108.csv'
+
+Same data structure
+
+
+
 
 **Todo**:
 
-- Some articles are picture copies of the hard prints, which make text extraction difficult.
+- 231 articles are picture copies of the hard prints, which make text extraction difficult.
 
 **Tools used**:
 - <a href = 'https://github.com/jsvine/pdfplumber'>PdfPlumber</a>: extract texts from pdf
