@@ -1,0 +1,234 @@
+information,date,article
+communication,24-09-28,3
+communication,24-09-29,3
+communication,24-09-30,4
+communication,24-10-01,10
+communication,24-10-02,17
+communication,24-10-03,5
+communication,24-10-04,7
+communication,24-10-05,6
+communication,24-10-06,6
+communication,24-10-07,5
+communication,24-10-08,6
+communication,24-10-09,4
+communication,24-10-10,2
+communication,24-10-11,6
+communication,24-10-12,3
+communication,24-10-13,4
+communication,24-10-14,1
+communication,24-10-15,4
+communication,24-10-16,3
+communication,24-10-18,3
+communication,24-10-19,2
+communication,24-10-20,2
+communication,24-10-21,4
+communication,24-10-22,1
+communication,24-10-23,1
+food and water,24-09-25,3
+food and water,24-09-26,2
+food and water,24-09-27,3
+food and water,24-09-28,8
+food and water,24-09-29,12
+food and water,24-09-30,18
+food and water,24-10-01,40
+food and water,24-10-02,52
+food and water,24-10-03,38
+food and water,24-10-04,50
+food and water,24-10-05,19
+food and water,24-10-06,18
+food and water,24-10-07,31
+food and water,24-10-08,28
+food and water,24-10-09,48
+food and water,24-10-10,33
+food and water,24-10-11,28
+food and water,24-10-12,15
+food and water,24-10-13,20
+food and water,24-10-14,11
+food and water,24-10-15,27
+food and water,24-10-16,28
+food and water,24-10-17,15
+food and water,24-10-18,23
+food and water,24-10-19,20
+food and water,24-10-20,16
+food and water,24-10-21,8
+food and water,24-10-22,12
+food and water,24-10-23,23
+medical service,24-09-25,1
+medical service,24-09-26,4
+medical service,24-09-28,4
+medical service,24-09-29,6
+medical service,24-09-30,12
+medical service,24-10-01,10
+medical service,24-10-02,21
+medical service,24-10-03,21
+medical service,24-10-04,23
+medical service,24-10-05,11
+medical service,24-10-06,7
+medical service,24-10-07,14
+medical service,24-10-08,14
+medical service,24-10-09,22
+medical service,24-10-10,11
+medical service,24-10-11,17
+medical service,24-10-12,7
+medical service,24-10-13,12
+medical service,24-10-14,4
+medical service,24-10-15,2
+medical service,24-10-16,15
+medical service,24-10-17,5
+medical service,24-10-18,11
+medical service,24-10-19,3
+medical service,24-10-20,6
+medical service,24-10-22,3
+medical service,24-10-23,4
+missing,24-09-23,1
+missing,24-09-25,1
+missing,24-09-26,6
+missing,24-09-27,15
+missing,24-09-28,5
+missing,24-09-29,13
+missing,24-09-30,12
+missing,24-10-01,27
+missing,24-10-02,41
+missing,24-10-03,27
+missing,24-10-04,33
+missing,24-10-05,20
+missing,24-10-06,13
+missing,24-10-07,18
+missing,24-10-08,17
+missing,24-10-09,34
+missing,24-10-10,22
+missing,24-10-11,14
+missing,24-10-12,8
+missing,24-10-13,19
+missing,24-10-14,11
+missing,24-10-15,16
+missing,24-10-16,19
+missing,24-10-17,13
+missing,24-10-18,10
+missing,24-10-19,12
+missing,24-10-20,8
+missing,24-10-21,6
+missing,24-10-22,5
+missing,24-10-23,15
+power restoration,24-09-23,2
+power restoration,24-09-24,2
+power restoration,24-09-25,9
+power restoration,24-09-26,13
+power restoration,24-09-27,16
+power restoration,24-09-28,13
+power restoration,24-09-29,18
+power restoration,24-09-30,29
+power restoration,24-10-01,48
+power restoration,24-10-02,74
+power restoration,24-10-03,47
+power restoration,24-10-04,50
+power restoration,24-10-05,22
+power restoration,24-10-06,21
+power restoration,24-10-07,35
+power restoration,24-10-08,28
+power restoration,24-10-09,50
+power restoration,24-10-10,38
+power restoration,24-10-11,34
+power restoration,24-10-12,19
+power restoration,24-10-13,30
+power restoration,24-10-14,10
+power restoration,24-10-15,28
+power restoration,24-10-16,33
+power restoration,24-10-17,16
+power restoration,24-10-18,16
+power restoration,24-10-19,14
+power restoration,24-10-20,12
+power restoration,24-10-21,16
+power restoration,24-10-22,9
+power restoration,24-10-23,15
+recovery and support,24-09-24,1
+recovery and support,24-09-25,3
+recovery and support,24-09-26,6
+recovery and support,24-09-27,7
+recovery and support,24-09-28,10
+recovery and support,24-09-29,18
+recovery and support,24-09-30,18
+recovery and support,24-10-01,23
+recovery and support,24-10-02,50
+recovery and support,24-10-03,30
+recovery and support,24-10-04,49
+recovery and support,24-10-05,22
+recovery and support,24-10-06,11
+recovery and support,24-10-07,29
+recovery and support,24-10-08,28
+recovery and support,24-10-09,50
+recovery and support,24-10-10,23
+recovery and support,24-10-11,31
+recovery and support,24-10-12,19
+recovery and support,24-10-13,21
+recovery and support,24-10-14,15
+recovery and support,24-10-15,30
+recovery and support,24-10-16,29
+recovery and support,24-10-17,21
+recovery and support,24-10-18,17
+recovery and support,24-10-19,17
+recovery and support,24-10-20,11
+recovery and support,24-10-21,16
+recovery and support,24-10-22,13
+recovery and support,24-10-23,25
+shelter,24-09-23,1
+shelter,24-09-25,1
+shelter,24-09-26,4
+shelter,24-09-27,9
+shelter,24-09-28,7
+shelter,24-09-29,12
+shelter,24-09-30,17
+shelter,24-10-01,26
+shelter,24-10-02,30
+shelter,24-10-03,24
+shelter,24-10-04,22
+shelter,24-10-05,8
+shelter,24-10-06,6
+shelter,24-10-07,20
+shelter,24-10-08,15
+shelter,24-10-09,34
+shelter,24-10-10,10
+shelter,24-10-11,13
+shelter,24-10-12,11
+shelter,24-10-13,8
+shelter,24-10-14,9
+shelter,24-10-15,14
+shelter,24-10-16,24
+shelter,24-10-17,14
+shelter,24-10-18,13
+shelter,24-10-19,2
+shelter,24-10-20,4
+shelter,24-10-21,9
+shelter,24-10-22,2
+shelter,24-10-23,12
+transportation,24-09-23,1
+transportation,24-09-24,2
+transportation,24-09-25,6
+transportation,24-09-26,16
+transportation,24-09-27,22
+transportation,24-09-28,11
+transportation,24-09-29,17
+transportation,24-09-30,30
+transportation,24-10-01,51
+transportation,24-10-02,59
+transportation,24-10-03,44
+transportation,24-10-04,54
+transportation,24-10-05,29
+transportation,24-10-06,26
+transportation,24-10-07,41
+transportation,24-10-08,32
+transportation,24-10-09,59
+transportation,24-10-10,36
+transportation,24-10-11,33
+transportation,24-10-12,26
+transportation,24-10-13,33
+transportation,24-10-14,27
+transportation,24-10-15,37
+transportation,24-10-16,43
+transportation,24-10-17,23
+transportation,24-10-18,26
+transportation,24-10-19,24
+transportation,24-10-20,17
+transportation,24-10-21,19
+transportation,24-10-22,19
+transportation,24-10-23,38
