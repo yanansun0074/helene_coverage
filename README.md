@@ -1,15 +1,15 @@
 # Hurricane Helene Local News Coverage Research
 
-This is a repository for local news coverage analysis on Hurricane Helene in North Carolina, by CISLM.
+This is a Github repository for the local news coverage analysis on Hurricane Helene in North Carolina by CISLM.
 
-News article data collected from <a href='https://www.newsbank.com/'>NewsBank</a>
+News article data was collected from <a href='https://www.newsbank.com/'>NewsBank</a>
 
-Latest data in: 
-'helene_articles_20241114.csv'
+Latest baseline data in: 
+'helene_all_articles_cleaned.csv'
 
-Filtered by newspapers in disaster areas from 9/23/2024 to 10/23/2024 --> 1911 articles
+Filtered by newspapers in western NC areas from 9/23/2024 to 10/23/2024 --> 1714 articles
 
-| Column Name | Meaning |
+| Column Name | Description |
 | -------- | ------- |
 | header | header scraped from newsbank pdf |
 | article | texts of the article |
@@ -17,20 +17,23 @@ Filtered by newspapers in disaster areas from 9/23/2024 to 10/23/2024 --> 1911 a
 | date | publication date(format: Month day, year)|
 | newspaper | publisher |
 | author | author names |
-| word_count | number of words |
+| County | where the newspaper is |
+| Outlet | publisher (from the NC News Census data) |
+| article_text | texts after basic cleaning |
 
-'articles_20241108.csv'
+**Notebooks**:
+- <ins>news_collection.ipynb</ins>: Extract texts from pdfs in *news_bank_pdf* and *helene_articles_readable*. Filter with data in *wnc_county_newsrooms*.
 
-Same data structure
+    * Output: *helene_all_articles.csv*
+- <ins>news_analysis.ipynb</ins>: Clean and analyze data from *helene_all_articles.csv*
+    * Output: *helene_all_articles_cleaned.csv*, *helene_articles_originality_final.csv*, *BERTopic_lables_final.csv*, 
 
+- <ins>visualization</ins>: Create visualizations with data from *graphics_data*
+    * Output: *graphics_output*
 
-
-
-**Todo**:
-
-- 231 articles are picture copies of the hard prints, which make text extraction difficult.
 
 **Tools used**:
 - <a href = 'https://github.com/jsvine/pdfplumber'>PdfPlumber</a>: extract texts from pdf
-- <a href = 'https://github.com/tesseract-ocr/tesseract'>Tesseract</a>: OCR engine to extract text from images
-- <a href = 'https://layout-parser.github.io/'>Layoutparser</a>: decompose complicated layouts
+- <a href = 'https://notebooklm.google.com/'>NotebookLM</a>: extrct texts from newspaper layout
+- Adobe Illustrator, <a href = 'https://app.flourish.studio/projects'>flourish</a>: for visualization
+
