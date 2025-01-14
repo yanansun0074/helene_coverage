@@ -1,9 +1,9 @@
-information,article
-transportation,901
-power restoration,767
-food and water,649
-recovery and support,643
-missing,461
-shelter,381
-medical service,270
-communication,112
+information,article,percentage
+transportation,901,0.5256709451575262
+power restoration,767,0.4474912485414236
+food and water,649,0.37864644107351225
+recovery and support,643,0.3751458576429405
+missing,461,0.26896149358226373
+shelter,381,0.22228704784130687
+medical service,270,0.15752625437572929
+communication,112,0.06534422403733955
