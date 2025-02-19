@@ -1,0 +1,201 @@
+Category,date,Document
+Community,2024-09-24,1
+Community,2024-09-25,3
+Community,2024-09-26,3
+Community,2024-09-27,4
+Community,2024-09-28,5
+Community,2024-09-29,3
+Community,2024-09-30,1
+Community,2024-10-01,12
+Community,2024-10-02,11
+Community,2024-10-03,3
+Community,2024-10-04,12
+Community,2024-10-05,9
+Community,2024-10-06,3
+Community,2024-10-07,13
+Community,2024-10-08,15
+Community,2024-10-09,14
+Community,2024-10-10,7
+Community,2024-10-11,12
+Community,2024-10-12,6
+Community,2024-10-13,4
+Community,2024-10-14,12
+Community,2024-10-15,6
+Community,2024-10-16,13
+Community,2024-10-17,7
+Community,2024-10-18,7
+Community,2024-10-19,10
+Community,2024-10-20,12
+Community,2024-10-21,8
+Community,2024-10-22,6
+Community,2024-10-23,10
+Disaster Recovery,2024-09-25,4
+Disaster Recovery,2024-09-26,3
+Disaster Recovery,2024-09-27,1
+Disaster Recovery,2024-09-28,1
+Disaster Recovery,2024-09-29,9
+Disaster Recovery,2024-09-30,8
+Disaster Recovery,2024-10-01,16
+Disaster Recovery,2024-10-02,13
+Disaster Recovery,2024-10-03,11
+Disaster Recovery,2024-10-04,22
+Disaster Recovery,2024-10-05,8
+Disaster Recovery,2024-10-06,8
+Disaster Recovery,2024-10-07,8
+Disaster Recovery,2024-10-08,5
+Disaster Recovery,2024-10-09,24
+Disaster Recovery,2024-10-10,8
+Disaster Recovery,2024-10-11,10
+Disaster Recovery,2024-10-12,11
+Disaster Recovery,2024-10-13,7
+Disaster Recovery,2024-10-14,9
+Disaster Recovery,2024-10-15,10
+Disaster Recovery,2024-10-16,18
+Disaster Recovery,2024-10-17,15
+Disaster Recovery,2024-10-18,12
+Disaster Recovery,2024-10-19,10
+Disaster Recovery,2024-10-20,7
+Disaster Recovery,2024-10-21,6
+Disaster Recovery,2024-10-22,4
+Disaster Recovery,2024-10-23,8
+Disaster status,2024-09-23,1
+Disaster status,2024-09-24,1
+Disaster status,2024-09-25,5
+Disaster status,2024-09-26,17
+Disaster status,2024-09-27,22
+Disaster status,2024-09-28,17
+Disaster status,2024-09-29,14
+Disaster status,2024-09-30,25
+Disaster status,2024-10-01,28
+Disaster status,2024-10-02,44
+Disaster status,2024-10-03,36
+Disaster status,2024-10-04,36
+Disaster status,2024-10-05,15
+Disaster status,2024-10-06,23
+Disaster status,2024-10-07,21
+Disaster status,2024-10-08,20
+Disaster status,2024-10-09,36
+Disaster status,2024-10-10,29
+Disaster status,2024-10-11,25
+Disaster status,2024-10-12,14
+Disaster status,2024-10-13,21
+Disaster status,2024-10-14,22
+Disaster status,2024-10-15,23
+Disaster status,2024-10-16,19
+Disaster status,2024-10-17,8
+Disaster status,2024-10-18,18
+Disaster status,2024-10-19,10
+Disaster status,2024-10-20,8
+Disaster status,2024-10-21,11
+Disaster status,2024-10-22,12
+Disaster status,2024-10-23,19
+Politics,2024-09-23,1
+Politics,2024-09-25,1
+Politics,2024-09-27,1
+Politics,2024-09-29,4
+Politics,2024-09-30,2
+Politics,2024-10-01,6
+Politics,2024-10-02,11
+Politics,2024-10-03,6
+Politics,2024-10-04,5
+Politics,2024-10-05,1
+Politics,2024-10-06,2
+Politics,2024-10-07,6
+Politics,2024-10-08,1
+Politics,2024-10-09,6
+Politics,2024-10-10,5
+Politics,2024-10-11,14
+Politics,2024-10-12,4
+Politics,2024-10-13,6
+Politics,2024-10-14,3
+Politics,2024-10-15,11
+Politics,2024-10-16,15
+Politics,2024-10-17,12
+Politics,2024-10-18,7
+Politics,2024-10-19,4
+Politics,2024-10-20,5
+Politics,2024-10-21,8
+Politics,2024-10-22,6
+Politics,2024-10-23,7
+Shelters and supplies,2024-09-26,2
+Shelters and supplies,2024-09-27,3
+Shelters and supplies,2024-09-29,1
+Shelters and supplies,2024-09-30,7
+Shelters and supplies,2024-10-01,11
+Shelters and supplies,2024-10-02,11
+Shelters and supplies,2024-10-03,12
+Shelters and supplies,2024-10-04,13
+Shelters and supplies,2024-10-05,3
+Shelters and supplies,2024-10-06,1
+Shelters and supplies,2024-10-07,9
+Shelters and supplies,2024-10-08,10
+Shelters and supplies,2024-10-09,11
+Shelters and supplies,2024-10-10,11
+Shelters and supplies,2024-10-11,7
+Shelters and supplies,2024-10-12,6
+Shelters and supplies,2024-10-13,1
+Shelters and supplies,2024-10-14,2
+Shelters and supplies,2024-10-15,7
+Shelters and supplies,2024-10-16,7
+Shelters and supplies,2024-10-17,3
+Shelters and supplies,2024-10-18,5
+Shelters and supplies,2024-10-19,6
+Shelters and supplies,2024-10-20,2
+Shelters and supplies,2024-10-22,4
+Shelters and supplies,2024-10-23,12
+Sports,2024-09-24,1
+Sports,2024-09-25,1
+Sports,2024-09-26,3
+Sports,2024-09-27,2
+Sports,2024-09-28,1
+Sports,2024-09-29,3
+Sports,2024-09-30,5
+Sports,2024-10-01,9
+Sports,2024-10-02,7
+Sports,2024-10-03,4
+Sports,2024-10-04,6
+Sports,2024-10-05,3
+Sports,2024-10-07,3
+Sports,2024-10-08,5
+Sports,2024-10-09,18
+Sports,2024-10-10,18
+Sports,2024-10-11,6
+Sports,2024-10-12,6
+Sports,2024-10-13,4
+Sports,2024-10-14,12
+Sports,2024-10-15,13
+Sports,2024-10-16,8
+Sports,2024-10-17,4
+Sports,2024-10-18,6
+Sports,2024-10-19,4
+Sports,2024-10-20,4
+Sports,2024-10-21,3
+Sports,2024-10-22,4
+Sports,2024-10-23,9
+Transportation,2024-09-25,3
+Transportation,2024-09-26,3
+Transportation,2024-09-29,4
+Transportation,2024-09-30,2
+Transportation,2024-10-01,2
+Transportation,2024-10-02,10
+Transportation,2024-10-03,6
+Transportation,2024-10-04,4
+Transportation,2024-10-05,7
+Transportation,2024-10-06,2
+Transportation,2024-10-07,6
+Transportation,2024-10-08,5
+Transportation,2024-10-09,8
+Transportation,2024-10-10,2
+Transportation,2024-10-11,6
+Transportation,2024-10-12,4
+Transportation,2024-10-13,5
+Transportation,2024-10-14,3
+Transportation,2024-10-15,3
+Transportation,2024-10-16,3
+Transportation,2024-10-17,5
+Transportation,2024-10-18,7
+Transportation,2024-10-19,3
+Transportation,2024-10-20,1
+Transportation,2024-10-21,3
+Transportation,2024-10-22,1
+Transportation,2024-10-23,5
